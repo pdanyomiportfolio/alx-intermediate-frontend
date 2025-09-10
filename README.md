@@ -130,3 +130,52 @@ This project is a hands-on exploration of Tailwind CSS, focusing on building res
    ```bash
    git clone <repository-url>
    ```
+
+---
+
+# 📘 Sass/SCSS Project 3 – Efficient Styling with Preprocessors
+
+## 🚀 Overview
+
+This project is a **practical introduction to Sass/SCSS**, a powerful CSS preprocessor.  
+The goal is to move beyond plain CSS by learning features that make stylesheets more **maintainable, readable, and efficient**.
+
+Through incremental tasks, you’ll explore:
+
+- Installing and compiling Sass
+- Using variables for reusable values
+- Nesting rules to mirror HTML structure
+- Creating reusable mixins for consistency
+
+---
+
+## 🎯 Learning Objectives
+
+By the end of this project, you will be able to:
+
+- Install and configure the **Sass compiler**.
+- Understand the **advantages** of using a preprocessor over vanilla CSS.
+- Write `.scss` files and compile them into `.css`.
+- Apply core Sass features:
+  - **Variables** for storing values like colors, fonts, and sizes.
+  - **Nesting** for structured, hierarchical rules.
+  - **Mixins** for reusable and flexible style blocks.
+
+---
+
+## 🛠️ Tools & Requirements
+
+- [Node.js](https://nodejs.org/) (v20.16.0 recommended)
+- [npm](https://www.npmjs.com/) – Node package manager
+- [nvm](https://github.com/nvm-sh/nvm) – Manage Node.js versions (optional but recommended)
+- Sass Compiler (`sass` package)
+
+---
+
+## ⚙️ Installation & Setup
+
+1. **Clone this repository**:
+   ```bash
+   git clone https://github.com/your-username/sass-intro.git
+   cd sass-intro
+   ```
