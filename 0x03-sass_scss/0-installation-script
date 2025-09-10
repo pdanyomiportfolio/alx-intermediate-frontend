@@ -1,0 +1,19 @@
+# Step 1: Download and install Node Version Manager for Windows (nvm-windows)
+# Visit: https://github.com/coreybutler/nvm-windows/releases
+# Download and run the latest nvm-setup.exe installer
+
+# Step 2: Open a new terminal (Command Prompt or PowerShell)
+
+# Step 3: Install Node.js version 20.16.0 using nvm
+nvm install 20.16.0
+nvm use 20.16.0
+
+# Step 4: Verify Node.js and npm installation
+node -v
+npm -v
+
+# Step 5: Install the latest Sass globally using npm
+npm install -g sass
+
+# Step 6: Verify Sass installation
+sass --version
